@@ -51,7 +51,7 @@ class App extends Component {
         )} />
       </div>
     );
-  }asdsa
+  }
 }
 
 export default App;
