@@ -1,20 +1,21 @@
-# Contacts Project
+## Contact app (React)
 
-This repo is a code-along with the first project in the [React Nanodegree program](https://www.udacity.com/course/react-nanodegree--nd019).
+This is a code alone Udacity react nano degree contact app 
 
-Most of the commits in this repository correspond to videos in the program.
+### `Getting it up and running.`
 
-## Project Setup
+you probably already installed npm and yarn in your PC<br />
+below npm library is required to run the app:<br />
+*  npm install --save react-router-dom<br />
+*  npm install --save prop-types <br />
+*  npm install --save react-router-dom<br />
+*  run npm start<br />
 
-* clone the Project - `git clone https://github.com/udacity/reactnd-contacts-complete.git`
-* install the dependencies - `npm install`
+### `Contact app pages`
 
-## Contributing
+there are one pages in this app.<br /> 
+npm will start the app at http://localhost:3000/ as home page<br />
+It will list all the contect fetched from API
 
-Because this is a code-along project and the commits correspond to specific videos in the program, we will not be accepting pull requests.
-
-If you feel like there's a major problem, please open an issue to discuss the problem and potential resolution.
-
-## Contributing
-
-MIT
+### License
+myreads is Copyright ©2020 Samuel tam. terms specified in the <a href="https://github.com/SamuelT12321/myreads/blob/master/LICENSE.txt">LICENSE</a> file.
